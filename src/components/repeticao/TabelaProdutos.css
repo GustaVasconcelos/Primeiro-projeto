@@ -1,0 +1,17 @@
+.TabelaProdutos th{
+    background-color: darkcyan;
+    border-radius: 10px;
+}
+
+.TabelaProdutos table{
+    width: 100%;
+}
+
+.TabelaProdutos .par{
+    background-color: #ddd;
+    
+}
+
+.TabelaProdutos .impar{
+    background-color: #ccc;
+}
